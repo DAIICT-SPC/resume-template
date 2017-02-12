@@ -1,2 +1,1 @@
-# resume-template
-DAIICT Official Resume Template
+# DAIICT Official Resume Template
